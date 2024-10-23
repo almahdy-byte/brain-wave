@@ -160,12 +160,12 @@ border-radius: 0;
   display: flex;
   justify-content: center;
   align-items: center;
-  aspect-ratio: 1;
+  hieght:300px;
 }
 
 .big-circle span
 {
-  transform-origin: 210px;
+  transform-origin: 182px;
   left: -35px;
 }
 .big-circle span div{
