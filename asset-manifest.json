@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brain-wave/static/css/main.e3047cd8.css",
+    "main.js": "/brain-wave/static/js/main.560c063b.js",
+    "static/js/453.0cc0ac16.chunk.js": "/brain-wave/static/js/453.0cc0ac16.chunk.js",
+    "index.html": "/brain-wave/index.html",
+    "main.e3047cd8.css.map": "/brain-wave/static/css/main.e3047cd8.css.map",
+    "main.560c063b.js.map": "/brain-wave/static/js/main.560c063b.js.map",
+    "453.0cc0ac16.chunk.js.map": "/brain-wave/static/js/453.0cc0ac16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3047cd8.css",
+    "static/js/main.560c063b.js"
+  ]
+}
