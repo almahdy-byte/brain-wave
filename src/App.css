@@ -156,11 +156,11 @@ border-radius: 0;
 
 .big-circle
 {
-  width: 350px;
+  width: 320px;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 350px;
+  height: 320px;
 }
 
 .big-circle span
