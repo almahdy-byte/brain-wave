@@ -1,16 +1,16 @@
 
 import './App.css';
-import { NavBar } from './main_component/navBar';
-import { Hero } from './main_component/hero';
-import { ChatSmaprter } from './main_component/chatSmarter';
-import { Collaboration } from './main_component/colaboration';
-import { Services } from './main_component/services';
-import { Pricing } from './main_component/pricing';
-import { Working } from './main_component/working';
-import { Footer } from './main_component/Footer';
+import { NavBar } from './component/navBar';
+import { Hero } from './component/hero';
+import { ChatSmaprter } from './component/chatSmarter';
+import { Collaboration } from './component/collaboration';
+import { Services } from './component/services';
+import { Pricing } from './component/pricing';
+import { Working } from './component/working';
+import { Footer } from './component/Footer';
 const  App =()=> {
   return (
-    <div className="App overflow-hidden position-relative">
+    <div className="App  position-relative ">
       <div className='shadow opacity-50 position-absolute top-50 start-50 translate-middle w-100 h-100 '></div>
       <NavBar/>
       <Hero/>

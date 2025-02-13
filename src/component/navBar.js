@@ -13,8 +13,8 @@ const toggleScroll = () => {
 };
     return(
         <>
-<nav className="navbar navbar-expand-lg sticky-top ">
-  <div class="container-fluid flex-nowrap">
+<nav className="navbar navbar-expand-lg sticky sticky-top  m-0 p-2" style={{background:'#0f0c15f5'}}>
+  <div class="container-fluid flex-nowrap p-2">
   <div className="logo">
   <img src='https://jsm-brainwave.com/assets/brainwave-DM3_Zh2I.svg' />
   </div>

@@ -520,7 +520,9 @@ border-radius: 0;
       left: 50%;
       transform: translate(-50%, -50%);
       border-radius: 50px;}
-      
+      .big-circle{
+        aspect-ratio: 1;
+      }
       @media (max-width:992px) {
         .working .container .row .working-boxes .working-box
         {
@@ -557,12 +559,12 @@ border-radius: 0;
             position: absolute;
             left: 0;
             width: 100%;
-            height: 100vh;
+            height: 90vh;
             display: grid;
             place-content: center;
-            gap: 10%;
-            top: 57.5px;
-            background-color: #0f0c15a3;
+            gap: 9%;
+            top: 100%;
+            background-color: #0f0c15f5;
           }
           .navbar-nav::before
           {
@@ -571,8 +573,7 @@ border-radius: 0;
             left: 0;
             width: 100%;
             height: 100vh;
-            top: 57.5px;
-            background-color: #0f0c15a3;
+            top: 100%;
           }
           .navbar-nav .nav-item div button{
             font-size: 16px !important;
@@ -584,8 +585,7 @@ border-radius: 0;
             left: 0;
             width: 100%;
             height: 100vh;
-            top: 57.5px;
-            background-color: #0f0c15a3;
+
           }
         }
         @media (max-width:768px) {
